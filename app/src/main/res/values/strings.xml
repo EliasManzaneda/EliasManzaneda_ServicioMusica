@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Servicio_Musica</string>
+
+    <string name="ServicioReproductorMusica">Servicio de reproducción de música</string>
+    <string name="ArrancarServicio">Arrancar servicio</string>
+    <string name="DetenerServicio">Detener servicio</string>
+</resources>
